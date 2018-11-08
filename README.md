@@ -1,6 +1,6 @@
 # Transatomic Reactor Documentation
 
-Welcome to the main repository for Transatomic's reactor design documents! We're very glad to be open-publishing our work, and we hope it will support a wide range of molten salt reactor research and development efforts. 
+Welcome to the main repository for Transatomic's reactor design documents. We're very glad to be open-publishing our work, and we hope it will support a wide range of molten salt reactor research and development efforts. 
 
 The subdirectories are organized as follows: 
 
