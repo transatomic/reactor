@@ -6,7 +6,7 @@ The subdirectories are organized as follows:
 
 <b>IP-filings</b> - Granted patents, applications, and provisional filings. 
 
-<b>blueprints</b> - Balance-of-plant blueprints for the 520 MWe reactor design (TAP-520). (We haven't yet uploaded these files -- we first need to verify they comply with export control guidelines.)
+<b>blueprints</b> - Balance-of-plant blueprints for the 520 MWe reactor design (TAP-520). 
 
 <b>open-questions</b> - A list of technology gaps and other areas of important future research for molten salt reactors. 
 
