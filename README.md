@@ -2,7 +2,7 @@
 
 Welcome to the main repository for Transatomic's open-source reactor design documents. We're very glad to be working with the Department of Energy's Gateway for Accelerated Innovation in Nuclear to share our design with the public, and we hope that this work will support a wide range of molten salt reactor research and development efforts. 
 
-For additional information, and if you'd like to contribute to this effort, please contact info@transatomicpower.com. 
+For additional information, and if you'd like to contribute to this project, please contact info@transatomicpower.com. 
 
 The subdirectories are organized as follows: 
 
