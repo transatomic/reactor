@@ -1,6 +1,6 @@
 # File Descriptions
 
---> We have verified with the NNSA that our public release of these documents in in compliance with export control guidelines. 
+--> We have verified with the NNSA that our public release of these documents is in compliance with export control guidelines. 
 
 M100SH1 – Feedwater and Condensate System I
 
