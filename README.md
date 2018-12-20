@@ -14,4 +14,4 @@ The subdirectories are organized as follows:
 
 <b>tech-reports</b> - Technical reports written as part of our GAIN (Gateway for Accelerated Innovation in Nuclear) collaboration with the Oak Ridge National Laboratory, describing the TAP-520 design. 
 
-<b>white-papers</b> - Whitepapers describing the overall design of the TAP-520, the neutronics of the TAP-520, the zirconium hydride moderator, and the TPX microreactor design. 
+<b>white-papers</b> - Whitepapers describing the overall design of the [TAP-520](https://github.com/transatomic/reactor/blob/master/white-papers/TAP-520-White-Paper-v2.1.pdf), the [neutronics](https://github.com/transatomic/reactor/blob/master/white-papers/Neutronics-White-Paper-v1.1.pdf) of the TAP-520, the [zirconium hydride moderator](https://github.com/transatomic/reactor/blob/master/white-papers/ZrH-White-Paper-v3.5.pdf), and the TPX microreactor design. 
