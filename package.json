@@ -1,0 +1,25 @@
+{
+  "name": "reactor",
+  "version": "1.0.0",
+  "description": "Transatomic reactor details",
+  "main": "index.js",
+  "scripts": {
+    "clean": "rimraf -f docs && mkdir docs && cd docs && mkdir blueprints && mkdir IP-filings && mkdir open-questions && mkdir tech-reports && mkdir whitepapers && cd ..",
+    "clonesite": "cp ./README.md ./docs/ && cp ./blueprints/README.md ./docs/blueprints/ && cp ./open-questions/README.md ./docs/openquestions",
+    "build": "npm run clean && npm run clonesite",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StoneCypher/reactor.git"
+  },
+  "author": "Transatomic",
+  "license": "SEE LICENSE IN license.md",
+  "bugs": {
+    "url": "https://github.com/StoneCypher/reactor/issues"
+  },
+  "homepage": "https://github.com/StoneCypher/reactor#readme",
+  "devDependencies": {
+    "rimraf": "^2.6.2"
+  }
+}
