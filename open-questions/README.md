@@ -2,7 +2,7 @@
 
 This subdirectory outlines what we view as some of the key unsolved problems in molten salt reactor development -- these are areas where new technologies and/or new companies are needed to fill crucial gaps. 
 
-We'd love to get your feedback on additional issues you've identified as well. You can add new ones via the [github repo's issue tracker](https://github.com/transatomic/reactor/issues) (tab at the top of the repo page,) and we'll integrate them here. 
+We'd love to get your feedback on additional issues you've identified as well. You can add new ones via the **[github repo's issue tracker](https://github.com/transatomic/reactor/issues)** (tab at the top of the repo page,) and we'll integrate them here. 
 
 ![image](https://user-images.githubusercontent.com/77482/50378886-ff002400-05f0-11e9-9d25-84115971c350.png)
 
