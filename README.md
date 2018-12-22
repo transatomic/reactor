@@ -12,6 +12,7 @@ For additional information, and if you'd like to contribute to this project, ple
 
 The subdirectories are organized as follows: 
 
+<<<<<<< HEAD
 1. <b>IP-filings</b>
     * Granted patents, applications, and provisional filings. 
     * [Github Link](https://github.com/transatomic/reactor/tree/master/IP-filings)
@@ -51,3 +52,6 @@ The subdirectories are organized as follows:
         * the [neutronics](https://github.com/transatomic/reactor/blob/master/white-papers/Neutronics-White-Paper-v1.1.pdf) of the TAP-520, 
         * the [zirconium hydride moderator](https://github.com/transatomic/reactor/blob/master/white-papers/ZrH-White-Paper-v3.5.pdf), and 
         * the [TPX microreactor design](https://github.com/transatomic/reactor/blob/master/white-papers/TPX-Microreactor-Design-Overview-v0.1.pdf). 
+=======
+<b>white-papers</b> - Whitepapers describing the overall design of the [TAP-520](https://github.com/transatomic/reactor/blob/master/white-papers/TAP-520-White-Paper-v2.1.pdf), the [neutronics](https://github.com/transatomic/reactor/blob/master/white-papers/Neutronics-White-Paper-v1.1.pdf) of the TAP-520, the [zirconium hydride moderator](https://github.com/transatomic/reactor/blob/master/white-papers/ZrH-White-Paper-v3.5.pdf), and the [TPX microreactor design](https://github.com/transatomic/reactor/blob/master/white-papers/TPX-Microreactor-Design-Overview-v0.1.pdf). 
+>>>>>>> upstream/master
