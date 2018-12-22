@@ -6,12 +6,17 @@ For additional information, and if you'd like to contribute to this project, ple
 
 The subdirectories are organized as follows: 
 
-<b>IP-filings</b> - Granted patents, applications, and provisional filings. 
-
-<b>blueprints</b> - Balance-of-plant blueprints for the 520 MWe reactor design (TAP-520). 
-
-<b>open-questions</b> - A list of technology gaps and other areas of important future research for molten salt reactors. 
-
-<b>tech-reports</b> - Technical reports written as part of our GAIN (Gateway for Accelerated Innovation in Nuclear) collaboration with the Oak Ridge National Laboratory, describing the TAP-520 design. 
-
-<b>white-papers</b> - Whitepapers describing the overall design of the [TAP-520](https://github.com/transatomic/reactor/blob/master/white-papers/TAP-520-White-Paper-v2.1.pdf), the [neutronics](https://github.com/transatomic/reactor/blob/master/white-papers/Neutronics-White-Paper-v1.1.pdf) of the TAP-520, the [zirconium hydride moderator](https://github.com/transatomic/reactor/blob/master/white-papers/ZrH-White-Paper-v3.5.pdf), and the [TPX microreactor design](https://github.com/transatomic/reactor/blob/master/white-papers/TPX-Microreactor-Design-Overview-v0.1.pdf). 
+1. <b>IP-filings</b>
+    * Granted patents, applications, and provisional filings. 
+1. <b>blueprints</b>
+    * Balance-of-plant blueprints for the 520 MWe reactor design (TAP-520). 
+1. <b>open-questions</b>
+    * A list of technology gaps and other areas of important future research for molten salt reactors. 
+1. <b>tech-reports</b>
+    * Technical reports written as part of our GAIN (Gateway for Accelerated Innovation in Nuclear) collaboration with the Oak Ridge National Laboratory, describing the TAP-520 design. 
+1. <b>white-papers</b>
+    * Whitepapers describing 
+        * the overall design of the [TAP-520](https://github.com/transatomic/reactor/blob/master/white-papers/TAP-520-White-Paper-v2.1.pdf), 
+        * the [neutronics](https://github.com/transatomic/reactor/blob/master/white-papers/Neutronics-White-Paper-v1.1.pdf) of the TAP-520, 
+        * the [zirconium hydride moderator](https://github.com/transatomic/reactor/blob/master/white-papers/ZrH-White-Paper-v3.5.pdf), and 
+        * the [TPX microreactor design](https://github.com/transatomic/reactor/blob/master/white-papers/TPX-Microreactor-Design-Overview-v0.1.pdf). 
