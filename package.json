@@ -4,8 +4,8 @@
   "description": "Transatomic reactor details",
   "main": "index.js",
   "scripts": {
-    "clean": "rimraf -f docs && mkdir docs && cd docs && mkdir blueprints && mkdir IP-filings && mkdir open-questions && mkdir tech-reports && mkdir whitepapers && cd ..",
-    "clonesite": "cp ./README.md ./docs/ && cp ./maintenance.md ./docs/ && cp ./blueprints/README.md ./docs/blueprints/ && cp ./open-questions/README.md ./docs/open-questions && cp ./githubpages_config.yml ./docs/_config.yml",
+    "clean": "rimraf -f docs && mkdir docs && cd docs && mkdir blueprints && mkdir IP-filings && mkdir open-questions && mkdir tech-reports && mkdir white-papers && cd ..", 
+    "clonesite": "cp ./README.md ./docs/ && cp ./maintenance.md ./docs/ && cp ./blueprints/* ./docs/blueprints/ && cp ./white-papers/* ./docs/white-papers/ && cp ./tech-reports/* ./docs/tech-reports/ && cp ./open-questions/README.md ./docs/open-questions && cp ./githubpages_config.yml ./docs/_config.yml",
     "build": "npm run clean && npm run clonesite",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
