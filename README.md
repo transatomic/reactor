@@ -15,7 +15,7 @@ The subdirectories are organized as follows:
 1. <b>IP-filings</b>
     * Granted patents, applications, and provisional filings. 
     * [Github Link](https://github.com/transatomic/reactor/tree/master/IP-filings)
-1. [blueprints](blueprints/README.md)
+1. **[blueprints](blueprints/README.md)**
     * Balance-of-plant blueprints for the 520 MWe reactor design (TAP-520). 
     * [M100SH1](blueprints/M100SH1.pdf) - 
       [M100SH2](blueprints/M100SH2.pdf) - 
@@ -39,7 +39,7 @@ The subdirectories are organized as follows:
       [steampro analysis](blueprints/M251.pdf) - 
       [water balance](blueprints/M251.pdf)
 
-1. [open-questions](openquestions/README.md)
+1. **[open-questions](openquestions/README.md)**
     * A list of technology gaps and other areas of important future research for molten salt reactors. 
 1. <b>tech-reports</b>
     * Technical reports written as part of our GAIN (Gateway for Accelerated Innovation in Nuclear) collaboration with the Oak Ridge National Laboratory, describing the TAP-520 design. 
