@@ -39,7 +39,7 @@ The subdirectories are organized as follows:
       [steampro analysis](blueprints/M251.pdf) - 
       [water balance](blueprints/M251.pdf)
 
-1. **[open-questions](openquestions/README.md)**
+1. **[open-questions](open-questions/README.md)**
     * A list of technology gaps and other areas of important future research for molten salt reactors. 
 1. <b>tech-reports</b>
     * Technical reports written as part of our GAIN (Gateway for Accelerated Innovation in Nuclear) collaboration with the Oak Ridge National Laboratory, describing the TAP-520 design. 
