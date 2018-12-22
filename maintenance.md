@@ -20,7 +20,7 @@ is not required, and may be disabled at any time.
 Updating is done with an `npm` script in `package.json`.
 
 ```
-npm update
+npm run build
 ```
 
 The site will now rebuild itself.  Afterwards, just commit as normal.
