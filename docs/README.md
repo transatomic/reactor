@@ -15,11 +15,11 @@ The subdirectories are organized as follows:
 1. <b>IP-filings</b>
     * Granted patents, applications, and provisional filings. 
     * [Github Link](https://github.com/transatomic/reactor/tree/master/IP-filings)
-1. [blueprints](blueprints/README.md)
+1. **[blueprints](blueprints/README.md)**
     * Balance-of-plant blueprints for the 520 MWe reactor design (TAP-520). 
     * [M100SH1](blueprints/M100SH1.pdf) - 
-      [M100SH2](blueprints/M100SH2.pdf) - 
-      [M101](blueprints/M101.pdf) - 
+      [M100SH2](blueprints/M100SH2.pdf) 
+    * [M101](blueprints/M101.pdf) - 
       [M105](blueprints/M105.pdf) - 
       [M106](blueprints/M106.pdf) - 
       [M107](blueprints/M107.pdf) - 
@@ -27,19 +27,19 @@ The subdirectories are organized as follows:
       [M109](blueprints/M109.pdf) - 
       [M110](blueprints/M110.pdf) - 
       [M111](blueprints/M111.pdf) - 
-      [M112](blueprints/M112.pdf) - 
-      [M200](blueprints/M200.pdf) - 
+      [M112](blueprints/M112.pdf) 
+    * [M200](blueprints/M200.pdf) - 
       [M201](blueprints/M201.pdf) - 
       [M202](blueprints/M202.pdf) - 
       [M205](blueprints/M205.pdf) - 
       [M210](blueprints/M210.pdf) - 
       [M250](blueprints/M250.pdf) - 
-      [M251](blueprints/M251.pdf) - 
-      [one line diagram](blueprints/M251.pdf) - 
+      [M251](blueprints/M251.pdf) 
+    * [one line diagram](blueprints/M251.pdf) - 
       [steampro analysis](blueprints/M251.pdf) - 
       [water balance](blueprints/M251.pdf)
 
-1. [open-questions](openquestions/README.md)
+1. **[open-questions](open-questions/README.md)**
     * A list of technology gaps and other areas of important future research for molten salt reactors. 
 1. <b>tech-reports</b>
     * Technical reports written as part of our GAIN (Gateway for Accelerated Innovation in Nuclear) collaboration with the Oak Ridge National Laboratory, describing the TAP-520 design. 
