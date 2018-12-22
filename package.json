@@ -1,0 +1,19 @@
+{
+  "name": "reactor",
+  "version": "1.0.0",
+  "description": "Transatomic reactor details",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StoneCypher/reactor.git"
+  },
+  "author": "Transatomic",
+  "license": "SEE LICENSE IN license.md",
+  "bugs": {
+    "url": "https://github.com/StoneCypher/reactor/issues"
+  },
+  "homepage": "https://github.com/StoneCypher/reactor#readme"
+}
